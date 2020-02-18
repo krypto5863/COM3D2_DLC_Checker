@@ -21,7 +21,7 @@ def check_internet():
 
 #Start
 print(colored("===========================================================================================", 'cyan',attrs=['bold']))
-print(colored('COM_DLC_Checker', 'cyan',attrs=['bold']) + " | " + colored(' Github.com/Tankerch/COM3D2_DLC_Checker', 'cyan',attrs=['bold']))
+print(colored('COM_DLC_Checker', 'cyan',attrs=['bold']) + " | " + colored(' Github.com/Tankerch/COM3D2_DLC_Checker [The Kry Fork]', 'cyan',attrs=['bold']))
 print(colored("===========================================================================================", 'cyan',attrs=['bold']))
 print("Checking internet connection : ")
 
