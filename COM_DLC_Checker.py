@@ -9,7 +9,7 @@ init()
 start = time.time()
 
 #Request function
-url='https://raw.githubusercontent.com/Tankerch/COM3D2_DLC_Checker/master/COM_NewListDLC.lst'
+url='https://raw.githubusercontent.com/krypto5863/COM3D2_DLC_Checker/master/COM_NewListDLC.lst'
 def check_internet():
     timeout=2
     try:
