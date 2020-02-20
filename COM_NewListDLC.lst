@@ -1,4 +1,4 @@
-22
+23
 parts_shop011.arc,[Pre-Order Bonus 01] [Fabulous Madame + Frau Maid Set]
 parts_shop018.arc,[Pre-Order Bonus 02] [Cowgirl Set]
 parts_shop020.arc,[Pre-Order Bonus 03] [Melonchan Costume Set]
@@ -60,7 +60,7 @@ csv_cw001.arc,[COM3D2 Shop] [Custom Made 3D2 Costume + Shopping Set Vol. 1]
 csv_cw002.arc,[COM3D2 Shop] [Custom Made 3D2 Costume + Shopping Set Vol. 2]
 parts_cas003.arc,[COM3D2 Shop] [Custom Made 3D2 Costume Pack Vol. 1]
 parts_dlc311.arc,[COM3D2 Shop] [Custom Made 3D2 Costume Pack Vol. 2]
-csv_cw003.arc,[COM3D2 Shop] [Custom Made 3D2 Costume Pack Vol. 3]
+parts_cw003.arc,[COM3D2 Shop] [Custom Made 3D2 Costume Pack Vol. 3]
 parts_dlc209.arc,[COM3D2 Shop] [Pixel Mint - Paradise Ocean Character Set]
 parts_dlc211.arc,[COM3D2 Shop] [ensemble - Koihana Character Set]
 parts_dlc214.arc,[COM3D2 Shop] [Alicesoft - Rance 10 Character Set] Limited Edition
@@ -122,7 +122,6 @@ bg_cd002.arc,[COM3D2][CUSTOM ORDER MAID VOCAL COLLECTION] [Groove Dress Set & Vo
 parts_tech003.arc,[Tech Gian Bonus] [Sakura Moyu Kuro Narikiri Collaboration Set]
 csv_kissnohi001.arc,[Kissing Day Plugin]
 csv_maidnohi001.arc,[Maid's Day Plugin]
-csv_dlc306.arc,[SSI Japan Love Vibe Adult Shop & Night Skill Skill Set]
 parts_vac001.arc,[Tech Gian] [Voice Actress Concerto]
 parts_vac002.arc,[Tech Gian] [Voice Actress Concerto 2]
 parts_nijiyomec.arc,[DLSite Bonus] [Nijiyomechan Costume Set]
