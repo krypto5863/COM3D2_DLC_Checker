@@ -1,4 +1,4 @@
-24
+25
 parts_shop011.arc,[Pre-Order Bonus 01] [Fabulous Madame + Frau Maid Set]
 parts_shop018.arc,[Pre-Order Bonus 02] [Cowgirl Set]
 parts_shop020.arc,[Pre-Order Bonus 03] [Melonchan Costume Set]
@@ -20,6 +20,7 @@ voice_personal_om004.arc,[COM3D2 Shop] [Personality Add-on] [Secretary]
 voice_personal_om005.arc,[COM3D2 Shop] [Personality Add-on] [Imouto]
 voice_personal_om006.arc,[COM3D2 Shop] [Personality Add-on] [Wary]
 voice_personal_om007.arc,[COM3D2 Shop] [Personality Add-on] [Ojousama]
+voice_personal_om008.arc,[COM3D2 Shop] [Personality Add-on] [Osananajimi]
 voice_ordermade001.arc,[COM3D2 Shop] [Transfer Pack] [Yandere]
 voice_ordermade002.arc,[COM3D2 Shop] [Transfer Pack] [Oneechan]
 voice_ordermade003.arc,[COM3D2 Shop] [Transfer Pack] [Genki]
@@ -123,6 +124,7 @@ bg_cd002.arc,[COM3D2][CUSTOM ORDER MAID VOCAL COLLECTION] [Groove Dress Set & Vo
 parts_tech003.arc,[Tech Gian Bonus] [Sakura Moyu Kuro Narikiri Collaboration Set]
 csv_kissnohi001.arc,[Kissing Day Plugin]
 csv_maidnohi001.arc,[Maid's Day Plugin]
+csv_2ndanniversary.arc,[COM3D2 2nd Anniversary H-Event]
 parts_vac001.arc,[Tech Gian] [Voice Actress Concerto]
 parts_vac002.arc,[Tech Gian] [Voice Actress Concerto 2]
 parts_nijiyomec.arc,[DLSite Bonus] [Nijiyomechan Costume Set]
