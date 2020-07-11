@@ -1,4 +1,4 @@
-27
+28
 bg_cd001.arc,[CUSTOM MAID VOCAL COLLECTION] [Music Dress Set & Vocal Collection Desktop Item]
 bg_cd002.arc,[CUSTOM ORDER MAID VOCAL COLLECTION] [Groove Dress Set & Vocal Collection 2 Desktop Item]
 parts_cd003.arc,[CUSTOM ORDER MAID VOCAL COLLECTION] [Sound Dress Set]
@@ -81,6 +81,7 @@ csv_karaoke002.arc,[COM3D2 Append] [CM3D2 Karaoke Pack VR Vol.2]
 csv_karaoke003.arc,[COM3D2 Append] [COM3D2 Karaoke Pack VR Vol.1]
 csv_karaoke004.arc,[COM3D2 Append] [COM3D2 Karaoke Pack VR Vol.2]
 csv_karaoke005.arc,[COM3D2 Append] [COM3D2 Karaoke Pack VR Vol.3]
+csv_karaoke006.arc,[COM3D2 Append] [COM3D2 Karaoke Pack VR Vol.4]
 csv_kissnohi001.arc,[Kissing Day Plugin]
 csv_maidnohi001.arc,[Maid's Day Plugin]
 csv_old.arc,[COM3D2 Compatible Update Patch]
