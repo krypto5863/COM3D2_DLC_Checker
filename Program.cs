@@ -13,7 +13,7 @@ namespace COM3D2_DLC_Checker
     {
 
         // Variabels
-        static readonly string DLC_URL = "https://raw.githubusercontent.com/Tankerch/COM3D2_DLC_Checker/master/COM_NewListDLC.lst";
+        static readonly string DLC_URL = "https://raw.githubusercontent.com/krypto5863/COM3D2_DLC_Checker/master/COM_NewListDLC.lst";
         static readonly string DLC_LIST_PATH = Path.Combine(Directory.GetCurrentDirectory(), "COM_NewListDLC.lst");
 
         static void Main(string[] args)
@@ -52,7 +52,7 @@ namespace COM3D2_DLC_Checker
         static void PRINT_HEADER()
         {
             CONSOLE_COLOR(ConsoleColor.Cyan, "===========================================================================================");
-            CONSOLE_COLOR(ConsoleColor.Cyan, "COM_DLC_Checker     |   Github.com/Tankerch/COM3D2_DLC_Checker");
+            CONSOLE_COLOR(ConsoleColor.Cyan, "COM_DLC_Checker (Kry Fork)     |   Github.com/krypto5863/COM3D2_DLC_Checker");
             CONSOLE_COLOR(ConsoleColor.Cyan, "===========================================================================================");
         }
 
