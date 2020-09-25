@@ -14,7 +14,7 @@ from termcolor import colored, cprint
 GAME_DIRECTORY = os.getcwd()
 
 CONNECTION_TIMEOUT = 5  # second
-DLC_URL = r"https://raw.githubusercontent.com/Tankerch/COM3D2_DLC_Checker/master/COM_NewListDLC.lst"
+DLC_URL = r"https://raw.githubusercontent.com/krypto5863/COM3D2_DLC_Checker/master/COM_NewListDLC.lst"
 
 
 def main():
@@ -41,7 +41,7 @@ def PRINT_HEADER():
     init()
     print(colored("===========================================================================================",
                   'cyan', attrs=['bold']))
-    print(colored('COM_DLC_Checker', 'cyan', attrs=['bold']) + " | " + colored(
+    print(colored('COM_DLC_Checker (Kry Fork)', 'cyan', attrs=['bold']) + " | " + colored(
         ' Github.com/Tankerch/COM3D2_DLC_Checker', 'cyan', attrs=['bold']))
     print(colored("===========================================================================================",
                   'cyan', attrs=['bold']))
