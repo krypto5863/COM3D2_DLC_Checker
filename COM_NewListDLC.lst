@@ -1,4 +1,4 @@
-38
+39
 bg_cd001.arc,[CUSTOM MAID VOCAL COLLECTION] [Music Dress Set & Vocal Collection Desktop Item]
 bg_cd002.arc,[CUSTOM ORDER MAID VOCAL COLLECTION] [Groove Dress Set & Vocal Collection 2 Desktop Item]
 parts_cd003.arc,[CUSTOM ORDER MAID VOCAL COLLECTION] [Sound Dress Set]
@@ -221,6 +221,7 @@ voice_personal_om006plus.arc,[COM3D2 Shop] [Yotogi & H-Events Pack] [Wary]
 voice_personal_om007.arc,[COM3D2 Shop] [Personality Pack Vol.7] [Ojousama]
 voice_personal_om007plus.arc,[COM3D2 Shop] [Yotogi & H-Events Pack] [Ojousama]
 voice_personal_om008.arc,[COM3D2 Shop] [Personality Pack Vol.8] [Osananajimi]
+voice_personal_om008plus.arc,[COM3D2 Shop] [Yotogi & H-Events Pack] [Osanannajimi]
 voice_personal_om009.arc,[COM3D2 Shop] [Personality Pack EX Vol.9] [Masochist]
 csv_yomeidokanteidan_sticker.arc,[S-Court CR Shop] [Sticker]
 csv_yomeidokanteidan_bromide.arc,[S-Court CR Shop] [Bromide]
