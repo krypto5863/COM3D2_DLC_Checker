@@ -1,4 +1,4 @@
-62
+64
 bg_cd001.arc,[CUSTOM MAID VOCAL COLLECTION] [Music Dress Set & Vocal Collection Desktop Item]
 bg_cd002.arc,[CUSTOM ORDER MAID VOCAL COLLECTION] [Groove Dress Set & Vocal Collection 2 Desktop Item]
 parts_cd003.arc,[CUSTOM ORDER MAID VOCAL COLLECTION] [Sound Dress Set]
@@ -121,7 +121,8 @@ csv_omytgc017.arc,[COM3D2 Shop] [Yotogi Class Skills Vol.35]
 csv_omytgc018.arc,[COM3D2 Shop] [Yotogi Class Skills Vol.36]
 csv_omytgc019.arc,[COM3D2 Shop] [Yotogi Class Skills Vol.37]
 csv_omytgc020.arc,[COM3D2 Shop] [Yotogi Class Skills Vol.38]
-csv_omytgc021.arc,[COM3D2 Shop] [Yotogi Class Skills Vol.38]
+csv_omytgc021.arc,[COM3D2 Shop] [Yotogi Class Skills Vol.39]
+csv_omytgc022.arc,[COM3D2 Shop] [Yotogi Class Skills Vol.40]
 csv_vp001.arc,[COM3D2 Append] [Visual Pack for Disc] [*CM3D2 VP]
 csv_soukiyoyaku.arc,[COM3D2 Early Reservation Campaign Fancy Paper]
 motion_magazine003.arc,[COM3D2 Append] [Fanbook 3 - Sakura Uraraka Dance Song and Costume]
@@ -240,6 +241,7 @@ parts_dlc339.arc,[COM3D2 Append] [Guest Mode Enhancement Pack] [Bare Top Lace Se
 csv_personal_om003_gp001.arc,[COM3D2 Append] [COM3D2 GP-01 Compatibility Pack] [Ladylike]
 csv_personal_om001_gp001fb.arc,[COM3D2 Append] [COM3D2 GP-01FB Compatibility Pack] [Bookworm]
 csv_personal_om002_gp001fb.arc,[COM3D2 Append] [COM3D2 GP-01FB Compatibility Pack] [Koakuma]
+csv_personal_om003_gp001fb.arc,[COM3D2 Append] [COM3D2 GP-01FB Compatibility Pack] [Ladylike]
 voice_gp002.arc,[COM3D2 Append] [GP02]
 voice_gp002p1.arc,[COM3D2 Append] [GP02] [Additional Update 1.5]
 voice_gp002p2.arc,[COM3D2 Append] [GP02] [Additional Update 2.0]
