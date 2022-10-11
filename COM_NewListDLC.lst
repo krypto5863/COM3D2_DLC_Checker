@@ -1,4 +1,4 @@
-80
+81
 bg_cd001.arc,[CUSTOM MAID VOCAL COLLECTION] [Music Dress Set & Vocal Collection Desktop Item]
 bg_cd002.arc,[CUSTOM ORDER MAID VOCAL COLLECTION] [Groove Dress Set & Vocal Collection 2 Desktop Item]
 parts_cd003.arc,[CUSTOM ORDER MAID VOCAL COLLECTION] [Sound Dress Set]
@@ -215,6 +215,8 @@ parts_cas099.arc,[COM3D2 Shop] [COM3D2 Costume Pack Vol. 35]
 parts_dlc451.arc,[COM3D2 Shop] [COM3D2 Costume Pack Vol. 36]
 parts_dlc456.arc,[COM3D2 Shop] [COM3D2 Costume Pack Vol. 37]
 parts_dlc459.arc,[COM3D2 Shop] [COM3D2 Costume Pack Vol. 38]
+parts_cas105.arc,[COM3D2 Shop] [COM3D2 Costume Pack Vol. 39]
+parts_dlc467.arc,[COM3D2 Shop] [COM3D2 Costume Pack Vol. 40]
 parts_dlc415.arc,[COM3D2 Shop] [COM3D2 Hairstyle and Head Accessories Pack]
 parts_dlc433.arc,[COM3D2 Shop] [COM3D2 Small Fashion Articles and Accessories Pack]
 parts_dlc436acc.arc,[COM3D2 Shop] [COM3D2 Christmas Accesories and Events Pack]
@@ -324,6 +326,7 @@ voice_x001.arc,[COM3D2 Append] [X1 Expansion Pack]
 csv_x001m1n1.arc,[COM3D2 Append] [X1 Honeymoon Yotogi Pack feat. Masochist and Evil and Mischievous
 voice_x001plus.arc,[COM3D2 Append] [X1+ Expansion Pack]
 voice_x001kai.arc,[COM3D2 Append] [X1 Kai Expansion Pack]
+voice_x001kaiplus.arc,[COM3D2 Append] [X1 Kai+ Expansion Pack]
 voice_gp002p1.arc,[COM3D2 Append] [GP02] [Additional Update 1.5]
 voice_gp002p2.arc,[COM3D2 Append] [GP02] [Additional Update 2.0]
 voice_gp002p3.arc,[COM3D2 Append] [GP02] [Additional Update 3.0]
