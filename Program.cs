@@ -126,7 +126,7 @@ namespace COM3D2_DLC_Checker
                 return GAME_DIRECTORY_REGISTRY;
             }
 
-            CONSOLE_COLOR(ConsoleColor.Yellow, "Warning : COM3D2 installation directory is not set in registry. Will use working directory', 'yellow'");
+            CONSOLE_COLOR(ConsoleColor.Yellow, "Warning : COM3D2 installation directory is not set or is set improperly in the registry. Will use current directory");
             return Directory.GetCurrentDirectory();
         }
 
