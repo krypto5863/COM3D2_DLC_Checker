@@ -1,4 +1,4 @@
-88
+25-6-20
 bg_cafesp001.arc,[Empire Variety SP 2023 Summer Pack]
 bg_cd001.arc,[CUSTOM MAID VOCAL COLLECTION] [Music Dress Set & Vocal Collection Desktop Item]
 bg_cd002.arc,[CUSTOM ORDER MAID VOCAL COLLECTION] [Groove Dress Set & Vocal Collection 2 Desktop Item]
@@ -216,20 +216,37 @@ csv_omytgc033.arc,[COM3D2 Shop] [Yotogi Class Skills Vol.48]
 csv_omytgc033_add2.arc,"[COM3D2 Shop] [Yotogi Class Skills Vol.48] [Add-on] Love Sofa Sex Maid feat. Imouto, Wary, Ojousama, Friendly and Naughty Lady, Serious and Clumsy Lady"
 csv_omytgc034.arc,COM3D2 Yotogi Class Skills SP: Train & Classroom Situation Enhancement Pack + ACT2 Revival
 csv_omytgc035.arc,COM3D2 Yotogi Class Skills SP + ACT3 Revival - Despair Maid
+csv_ordermade001_gp001.arc,[COM3D2 Append] [COM3D2 GP-01 Compatibility Pack] [Yandere]
+csv_ordermade001_gp001fb.arc,[COM3D2 Append] [COM3D2 GP-01FB Compatibility Pack] [Yandere]
+csv_ordermade001_gp002.arc,[COM3D2 Append] [COM3D2 GP-02 Compatibility Pack] [Yandere]
+csv_ordermade002_gp001.arc,[COM3D2 Append] [COM3D2 GP-01 Compatibility Pack] [Oneechan]
 csv_ordermade002_gp001fb.arc,[COM3D2 Append] [COM3D2 GP-01FB Compatibility Pack] [Oneechan]
+csv_ordermade002_gp002.arc,[COM3D2 Append] [COM3D2 GP-02 Compatibility Pack] [Oneechan]
+csv_ordermade003_gp001.arc,[COM3D2 Append] [COM3D2 GP-01 Compatibility Pack] [Tomboy]
 csv_ordermade003_gp001fb.arc,[COM3D2 Append] [COM3D2 GP-01FB Compatibility Pack] [Tomboy]
 csv_ordermade003_gp001fbkara.arc,[COM3D2 Append] [COM3D2 GP-01FB Compatibility Pack] [Tomboy] [Song and Dance]
+csv_ordermade003_gp002.arc,[COM3D2 Append] [COM3D2 GP-02 Compatibility Pack] [Tomboy]
+csv_ordermade004_gp001.arc,[COM3D2 Append] [COM3D2 GP-01 Compatibility Pack] [Sadist]
 csv_ordermade004_gp001fb.arc,[COM3D2 Append] [COM3D2 GP-01FB Compatibility Pack] [Sadist]
+csv_ordermade004_gp002.arc,[COM3D2 Append] [COM3D2 GP-02 Compatibility Pack] [Sadist]
+csv_personal_om001_gp001.arc,[COM3D2 Append] [COM3D2 GP-01 Compatibility Pack] [Bookworm]
 csv_personal_om001_gp001fb.arc,[COM3D2 Append] [COM3D2 GP-01FB Compatibility Pack] [Bookworm]
+csv_personal_om001_gp002.arc,[COM3D2 Append] [COM3D2 GP-02 Compatibility Pack] [Bookworm]
+csv_personal_om002_gp001.arc,[COM3D2 Append] [COM3D2 GP-01 Compatibility Pack] [Koakuma]
 csv_personal_om002_gp001fb.arc,[COM3D2 Append] [COM3D2 GP-01FB Compatibility Pack] [Koakuma]
+csv_personal_om002_gp002.arc,[COM3D2 Append] [COM3D2 GP-02 Compatibility Pack] [Koakuma]
 csv_personal_om003_gp001.arc,[COM3D2 Append] [COM3D2 GP-01 Compatibility Pack] [Ladylike]
 csv_personal_om003_gp001fb.arc,[COM3D2 Append] [COM3D2 GP-01FB Compatibility Pack] [Ladylike]
+csv_personal_om003_gp002.arc,[COM3D2 Append] [COM3D2 GP-02 Compatibility Pack] [Ladylike]
 csv_personal_om004_gp001.arc,[COM3D2 Append] [COM3D2 GP-01 Compatibility Pack] [Maid Secretary]
 csv_personal_om004_gp001fb.arc,[COM3D2 Append] [COM3D2 GP-01FB Compatibility Pack] [Maid Secretary]
+csv_personal_om004_gp002.arc,[COM3D2 Append] [COM3D2 GP-02 Compatibility Pack] [Maid Secretary]
 csv_personal_om005_gp001.arc,[COM3D2 Append] [COM3D2 GP-01 Compatibility Pack] [Imouto]
 csv_personal_om005_gp001fb.arc,[COM3D2 Append] [COM3D2 GP-01FB Compatibility Pack] [Imouto]
+csv_personal_om005_gp002.arc,[COM3D2 Append] [COM3D2 GP-02 Compatibility Pack] [Imouto]
 csv_personal_om006_gp001.arc,[COM3D2 Append] [COM3D2 GP-01 Compatibility Pack] [Wary]
 csv_personal_om006_gp001fb.arc,[COM3D2 Append] [COM3D2 GP-01FB Compatibility Pack] [Wary]
+csv_personal_om006_gp002.arc,[COM3D2 Append] [COM3D2 GP-02 Compatibility Pack] [Wary]
 csv_personal_om007_gp001.arc,[COM3D2 Append] [COM3D2 GP-01 Compatibility Pack] [Ojousama]
 csv_personal_om007_gp001fb.arc,[COM3D2 Append] [COM3D2 GP-01FB Compatibility Pack] [Ojousama]
 csv_personal_om007_gp002.arc,[COM3D2 Append] [COM3D2 GP-02 Compatibility Pack] [Ojousama]
@@ -238,13 +255,16 @@ csv_personal_om008_gp001fb.arc,[COM3D2 Append] [COM3D2 GP-01FB Compatibility Pac
 csv_personal_om008_gp002.arc,[COM3D2 Append] [COM3D2 GP-02 Compatibility Pack] [Osananajimi]
 csv_personal_om011_gp001.arc,COM3D2 GP-01 Compatibility Pack feat. Friendly and Naughty Lady
 csv_personal_om011_gp001fb.arc,COM3D2 GP-01Fb Compatibility Pack feat. Friendly and Naughty Lady
-csv_personal_om011_gp002.arc,COM3D2 GP-02 Compatibility Pack+Happy Future After Marriage Pack feat. Friendly and Naughty Lady
+csv_personal_om011_gp002.arc,COM3D2 GP-02 Compatibility Pack feat. Friendly and Naughty Lady
+csv_personal_om011_gp002hfam.arc,COM3D2 GP-02 Compatibility Pack Happy Future After Marriage Pack feat. Friendly and Naughty Lady
 csv_personal_om012_gp001.arc,COM3D2 GP-01 Compatibility Pack feat. Serious and Clumsy Lady
 csv_personal_om012_gp001fb.arc,COM3D2 GP-01Fb Compatibility Pack feat. Serious and Clumsy Lady
-csv_personal_om012_gp002.arc,COM3D2 GP-02 Compatibility Pack ft. Serious and Clumsy Lady
+csv_personal_om012_gp002.arc,COM3D2 GP-02 Compatibility Pack feat. Serious and Clumsy Lady
+csv_personal_om012_gp002hfam.arc,COM3D2 GP-02 Compatibility Pack Happy Future After Marriage Pack feat. Serious and Clumsy Lady
 csv_puremaniac001.arc,"COM3D2 Pure & Maniac After Marriage feat. Pure, Serious, Rindere, Wary, Ojousama, Osananajimi"
 csv_rotakara002.arc,COM3D2 Rotor Karaoke Showtime
 csv_select001.arc,COM3D2 Situation Select Pack
+csv_select002.arc,COM3D2 Situation Select Pack [Vol.2]
 csv_selfishdestiny.arc,[COM3D2 Shop] [Dance - Selfish Destiny]
 csv_senkyo001.arc,[COM3D2 Shop] [1st only you - Dance & Event Pack]
 csv_soukiyoyaku.arc,[COM3D2 Early Reservation Campaign Fancy Paper]
@@ -540,7 +560,6 @@ voice_personal_om013.arc,[COM3D2 Shop] [Personality Pack EX Vol.13] [Gyaru]
 voice_smsp001.arc,[COM3D2 Append] [Restraint Table SP Pack]
 voice_smsp001_add.arc,[COM3D2 Append] [Restraint Table SP Pack feat. Bookworm Little Devil Ladylike Maid Secretary Imouto and Wary]
 voice_smsp001_add2.arc,[COM3D2 Append] [Restraint Table SP Pack feat. Ojousaama Osananajimi Friendly and Naughty Lady Serious and Clumsy Lady Yandere Oneechan Tomboy and Sadist]
-voice_teikoku001.arc,[COM3D2 Append] [Special Service Pack] [Imperial Villa]
 voice_x001.arc,[COM3D2 Append] [X1 Expansion Pack]
 voice_x001kai.arc,[COM3D2 Append] [X1 Kai Expansion Pack]
 voice_x001kaiplus.arc,[COM3D2 Append] [X1 Kai+ Expansion Pack]
