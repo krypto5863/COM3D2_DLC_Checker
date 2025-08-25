@@ -1,4 +1,4 @@
-25-08-04
+25-08-25
 bg_cafesp001.arc,[Empire Variety SP 2023 Summer Pack]
 bg_cd001.arc,[CUSTOM MAID VOCAL COLLECTION] [Music Dress Set & Vocal Collection Desktop Item]
 bg_cd002.arc,[CUSTOM ORDER MAID VOCAL COLLECTION] [Groove Dress Set & Vocal Collection 2 Desktop Item]
@@ -28,6 +28,7 @@ bg_valentine2024.arc,[COM3D2 Happy Valentine 2024 and Accessories Set]
 csv_2ndanniversary.arc,[COM3D2 2nd Anniversary H-Event]
 csv_3d21reserve.arc,[Grade Up Reservation Campaign Vol.1]
 csv_3d21reserve2.arc,[Grade Up Reservation Campaign Vol.2] [Mainly Priority Dance]
+csv_10thanniversary.arc,CM3D2 10th Anniversary Pack
 csv_adultplus_darkness.arc,[COM3D2 Shop] [Adult Enhancement Pack] [DARKNESS]
 csv_adultplus_hard.arc,COM3D2 Adult Visual Enhancement Pack
 csv_adultplus_pink_add.arc,[COM3D2 Shop] [Adult Enhancement Pack] [PINK] [Vol.2]
@@ -89,6 +90,7 @@ csv_dance_rub.arc,[COM3D2 Shop] [Dance - rainy unbalance]
 csv_dance_smt.arc,[COM3D2 Shop] [Dance - Stellar My Tears]
 csv_dance_sse.arc,[COM3D2 Shop] [Dance - Sweet Sweet Everyday]
 csv_dateplan001.arc,COM3D2 The Best Date Plan Ever Thought Up By A Maid feat. Muku
+csv_dateplan002.arc,COM3D2 The Best Date Plan Ever Thought Up By A Maid feat. Majime	
 csv_denkigai2017wPoster3d21.arc,[Denkigai 2017 Winter] [COM3D2 Poster]
 csv_denkigai2017wPosterStarter.arc,[Denkigai 2017 Winter] [COM3D2 Starter Pack Poster]
 csv_denkigai2017wPosterkaraoke002.arc,[Denkigai 2017 Winter] [Karaoke Pack VR 2 Poster]
@@ -120,6 +122,7 @@ csv_eventplus_silent.arc,[COM3D2 Shop] [Yotogi & Karaoke Cohabitation Pack] [Boo
 csv_eventplus_sister.arc,[COM3D2 Shop] [Yotogi & Karaoke Cohabitation Pack] [Imouto]
 csv_exm001.arc,[COM3D2 Shop] [Extra Maid Collection]
 csv_explus001.arc,COM3D2 EX Character Visual Enhancement Pack ft. Masochist & Haraguro 
+csv_fessummer2025.arc,Face Edit Parts + Radio Expansion Pack 
 csv_gekiama001.arc,COM3D2 Super Sweet Love Pack
 csv_gp001fbp1.arc,[COM3D2 Shop] [Dance - speed up mind]
 csv_gp003d.arc,[COM3D2&2.5 Append] [GP-03]
@@ -150,6 +153,7 @@ csv_kissnohi001.arc,[Kissing Day Plugin]
 csv_maidnohi001.arc,[Maid's Day Plugin]
 csv_maidtaisou.arc,[COM3D2 Shop] [Dance - Maid gymnastics 1st]
 csv_modeplus001.arc,COM3D2 Extra Mode Add-On Pack
+csv_modeplus001add.arc,"COM3D2 Extra Mode Add-On Pack Ver. Ladylike, Secretary Maid, Imouto, Blunt, Ojou-sama, Childhood Friend, Proper Lady"
 csv_nekoparataiyo.arc,[COM3D2 Shop] [NEKO WORKs - Taiyou Paradise Dance] 
 csv_nightpool001_add2.arc,COM3D2 Nightpool SP Extreme [Add-on 2]
 csv_nmfeng.arc,[COM3D2 Shop] [Dance - Night Magic Fire (English ver.)]
@@ -257,6 +261,7 @@ csv_personal_om012_gp002.arc,COM3D2 GP-02 Compatibility Pack feat. Serious and C
 csv_personal_om012_gp002hfam.arc,COM3D2 GP-02 Compatibility Pack Happy Future After Marriage Pack feat. Serious and Clumsy Lady
 csv_puremaniac001.arc,"COM3D2 Pure & Maniac After Marriage feat. Pure, Serious, Rindere, Wary, Ojousama, Osananajimi"
 csv_rotakara002.arc,COM3D2 Rotor Karaoke Showtime
+csv_rotakara002add.arc,"COM3D2 Rotor Karaoke Show [Add-on] feat. Bookworm, Little Devil, Ladylike, Maid Secretary, Imouto, Wary"
 csv_secondhome001.arc, Holidays for Everyone! Villa Life Add-on Pack  
 csv_select001.arc,COM3D2 Situation Select Pack
 csv_select002.arc,COM3D2 Situation Select Pack [Vol.2]
@@ -323,6 +328,7 @@ parts_cas129.arc,[COM3D2 Shop] [COM3D2 Costume Pack Vol. 48]
 parts_cas133.arc,[COM3D2 Shop] [COM3D2 Costume Pack Vol. 49]
 parts_cas137.arc,[COM3D2 Shop] [Costume Set] [Vol.59]
 parts_cas141.arc,[COM3D2 Shop] [Costume Set] [Vol.65]
+parts_cas145.arc,[COM3D2 Shop] [Costume Set] [Vol.72]
 parts_cd003.arc,[CUSTOM ORDER MAID VOCAL COLLECTION] [Sound Dress Set]
 parts_com3d2cbp.arc,[COM3D2 Chu-B Maid Clothes Set Vol.2]
 parts_coupling001.arc,[COM3D2 Shop] [Coupling & Harem Pack] [Muku x Majime]
@@ -448,6 +454,7 @@ parts_dlc537.arc,[COM3D2 Shop] [Costume Set] [Vol.68]
 parts_dlc540.arc,[COM3D2 Shop] [Costume Set] [Vol.69]
 parts_dlc542.arc,[COM3D2 Shop] [Costume Set] [Vol.70]
 parts_dlc545.arc,[COM3D2 Shop] [Costume Set] [Vol.71]
+parts_dlc547.arc,[COM3D2 Shop] [Costume Set] [Vol.73]
 parts_free002.arc,[COM3D2 Shop] [Valentine 2021 Set]
 parts_free005.arc,[COM3D2 Shop] [Hat and Paper Hat Set]
 parts_ggcc.arc,[GoGo Curry Collaboration Costume Set]
@@ -564,7 +571,3 @@ voice_x_adultplus.arc,[COM3D2 Append] [Adult Enhancement Pack]
 voice_x_adultplus_add.arc,[COM3D2 Append] [Adult Enhancement Pack feat. Bookworm Ladylike Yandere Oneechan Tomboy and Sadist]
 voice_x_adultplus_add2.arc,[COM3D2 Append] [Adult Enhancement Pack feat. Little Devil Imouto Maid Secretary Wary Ojousama and Osananajimi]
 voice_x_adultplus_add3.arc,[COM3D2 Append] [Adult Enhancement Pack feat. Masochist Evil and Mischievous Friendly and Naughty Lady and Serious and Clumsy Lady]
-csv_dateplan002.arc,COM3D2 The Best Date Plan Ever Thought Up By A Maid feat. Majime	
-csv_rotakara002add.arc,COM3D2 Rotor Karaoke Show [Add-on] feat. Bookworm, Little Devil, Ladylike, Maid Secretary, Imouto, Wary	
-parts_cas145.arc,[COM3D2 Shop] [Costume Set] [Vol.72]	
-csv_10thanniversary.arc,CM3D2 10th Anniversary Pack
