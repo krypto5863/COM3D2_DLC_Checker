@@ -1,4 +1,4 @@
-25-09-22
+25-10-11
 bg_cafesp001.arc,[Empire Variety SP 2023 Summer Pack]
 bg_cd001.arc,[CUSTOM MAID VOCAL COLLECTION] [Music Dress Set & Vocal Collection Desktop Item]
 bg_cd002.arc,[CUSTOM ORDER MAID VOCAL COLLECTION] [Groove Dress Set & Vocal Collection 2 Desktop Item]
@@ -25,10 +25,10 @@ bg_sp005.arc,[COM3D2 Append] [Summer 2019 Date Pack]
 bg_sp006.arc,[COM3D2 Append] [Winter 2019 Date Pack]
 bg_sp007.arc,[COM3D2 Append] [Winter 2021 Date Pack]
 bg_valentine2024.arc,[COM3D2 Happy Valentine 2024 and Accessories Set]
+csv_10thanniversary.arc,CM3D2 10th Anniversary Pack
 csv_2ndanniversary.arc,[COM3D2 2nd Anniversary H-Event]
 csv_3d21reserve.arc,[Grade Up Reservation Campaign Vol.1]
 csv_3d21reserve2.arc,[Grade Up Reservation Campaign Vol.2] [Mainly Priority Dance]
-csv_10thanniversary.arc,CM3D2 10th Anniversary Pack
 csv_adultplus_darkness.arc,[COM3D2 Shop] [Adult Enhancement Pack] [DARKNESS]
 csv_adultplus_hard.arc,COM3D2 Adult Visual Enhancement Pack
 csv_adultplus_pink_add.arc,[COM3D2 Shop] [Adult Enhancement Pack] [PINK] [Vol.2]
@@ -90,7 +90,8 @@ csv_dance_rub.arc,[COM3D2 Shop] [Dance - rainy unbalance]
 csv_dance_smt.arc,[COM3D2 Shop] [Dance - Stellar My Tears]
 csv_dance_sse.arc,[COM3D2 Shop] [Dance - Sweet Sweet Everyday]
 csv_dateplan001.arc,COM3D2 The Best Date Plan Ever Thought Up By A Maid feat. Muku
-csv_dateplan002.arc,COM3D2 The Best Date Plan Ever Thought Up By A Maid feat. Majime	
+csv_dateplan002.arc,COM3D2 The Best Date Plan Ever Thought Up By A Maid feat. Majime
+csv_dateplan003.arc,COM3D2 The Best Date Plan Ever Thought Up By A Maid feat. Rindere
 csv_denkigai2017wPoster3d21.arc,[Denkigai 2017 Winter] [COM3D2 Poster]
 csv_denkigai2017wPosterStarter.arc,[Denkigai 2017 Winter] [COM3D2 Starter Pack Poster]
 csv_denkigai2017wPosterkaraoke002.arc,[Denkigai 2017 Winter] [Karaoke Pack VR 2 Poster]
@@ -121,10 +122,20 @@ csv_eventplus_secretary.arc,[COM3D2 Shop] [Yotogi & Karaoke Cohabitation Pack] [
 csv_eventplus_silent.arc,[COM3D2 Shop] [Yotogi & Karaoke Cohabitation Pack] [Bookworm]
 csv_eventplus_sister.arc,[COM3D2 Shop] [Yotogi & Karaoke Cohabitation Pack] [Imouto]
 csv_exm001.arc,[COM3D2 Shop] [Extra Maid Collection]
-csv_explus001.arc,COM3D2 EX Character Visual Enhancement Pack ft. Masochist & Haraguro 
-csv_fessummer2025.arc,Face Edit Parts + Radio Expansion Pack 
+csv_explus001.arc,COM3D2 EX Character Visual Enhancement Pack ft. Masochist & Haraguro
+csv_fessummer2025.arc,Face Edit Parts + Radio Expansion Pack
 csv_gekiama001.arc,COM3D2 Super Sweet Love Pack
 csv_gp001fbp1.arc,[COM3D2 Shop] [Dance - speed up mind]
+csv_gp002anesan.arc,[COM3D2 Append] [COM3D2 GP-02 Compatibility Pack] [Oneechan]
+csv_gp002curtness.arc,[COM3D2 Append] [COM3D2 GP-02 Compatibility Pack] [Wary]
+csv_gp002devilish.arc,[COM3D2 Append] [COM3D2 GP-02 Compatibility Pack] [Koakuma]
+csv_gp002genki.arc,[COM3D2 Append] [COM3D2 GP-02 Compatibility Pack] [Tomboy]
+csv_gp002ladylike.arc,[COM3D2 Append] [COM3D2 GP-02 Compatibility Pack] [Ladylike]
+csv_gp002sadist.arc,[COM3D2 Append] [COM3D2 GP-02 Compatibility Pack] [Sadist]
+csv_gp002secretary.arc,[COM3D2 Append] [COM3D2 GP-02 Compatibility Pack] [Maid Secretary]
+csv_gp002silent.arc,[COM3D2 Append] [COM3D2 GP-02 Compatibility Pack] [Bookworm]
+csv_gp002sister.arc,[COM3D2 Append] [COM3D2 GP-02 Compatibility Pack] [Imouto]
+csv_gp002yandere.arc,[COM3D2 Append] [COM3D2 GP-02 Compatibility Pack] [Yandere]
 csv_gp003d.arc,[COM3D2&2.5 Append] [GP-03]
 csv_hanami001.arc,COM3D2 Flower-Viewing Karaoke Date SP
 csv_karaoke001.arc,[COM3D2 Append] [CM3D2 Karaoke Pack VR Vol.1]
@@ -154,7 +165,7 @@ csv_maidnohi001.arc,[Maid's Day Plugin]
 csv_maidtaisou.arc,[COM3D2 Shop] [Dance - Maid gymnastics 1st]
 csv_modeplus001.arc,COM3D2 Extra Mode Add-On Pack
 csv_modeplus001add.arc,"COM3D2 Extra Mode Add-On Pack Ver. Ladylike, Secretary Maid, Imouto, Blunt, Ojou-sama, Childhood Friend, Proper Lady"
-csv_nekoparataiyo.arc,[COM3D2 Shop] [NEKO WORKs - Taiyou Paradise Dance] 
+csv_nekoparataiyo.arc,[COM3D2 Shop] [NEKO WORKs - Taiyou Paradise Dance]
 csv_nightpool001_add2.arc,COM3D2 Nightpool SP Extreme [Add-on 2]
 csv_nmfeng.arc,[COM3D2 Shop] [Dance - Night Magic Fire (English ver.)]
 csv_old.arc,[COM3D2 Compatible Update Patch]
@@ -222,30 +233,20 @@ csv_omytgc034.arc,COM3D2 Yotogi Class Skills SP: Train & Classroom Situation Enh
 csv_omytgc035.arc,COM3D2 Yotogi Class Skills SP + ACT3 Revival - Despair Maid
 csv_omytgc036.arc,COM3D2 Erotic Maid Situation Pack & Yotogi Class SP ‘Erotic Maid’
 csv_ordermade001_gp001fb.arc,[COM3D2 Append] [COM3D2 GP-01FB Compatibility Pack] [Yandere]
-csv_gp002yandere.arc,[COM3D2 Append] [COM3D2 GP-02 Compatibility Pack] [Yandere]
 csv_ordermade002_gp001fb.arc,[COM3D2 Append] [COM3D2 GP-01FB Compatibility Pack] [Oneechan]
-csv_gp002anesan.arc,[COM3D2 Append] [COM3D2 GP-02 Compatibility Pack] [Oneechan]
 csv_ordermade003_gp001fb.arc,[COM3D2 Append] [COM3D2 GP-01FB Compatibility Pack] [Tomboy]
 csv_ordermade003_gp001fbkara.arc,[COM3D2 Append] [COM3D2 GP-01FB Compatibility Pack] [Tomboy] [Song and Dance]
-csv_gp002genki.arc,[COM3D2 Append] [COM3D2 GP-02 Compatibility Pack] [Tomboy]
 csv_ordermade004_gp001fb.arc,[COM3D2 Append] [COM3D2 GP-01FB Compatibility Pack] [Sadist]
-csv_gp002sadist.arc,[COM3D2 Append] [COM3D2 GP-02 Compatibility Pack] [Sadist]
 csv_personal_om001_gp001fb.arc,[COM3D2 Append] [COM3D2 GP-01FB Compatibility Pack] [Bookworm]
-csv_gp002silent.arc,[COM3D2 Append] [COM3D2 GP-02 Compatibility Pack] [Bookworm]
 csv_personal_om002_gp001fb.arc,[COM3D2 Append] [COM3D2 GP-01FB Compatibility Pack] [Koakuma]
-csv_gp002devilish.arc,[COM3D2 Append] [COM3D2 GP-02 Compatibility Pack] [Koakuma]
 csv_personal_om003_gp001.arc,[COM3D2 Append] [COM3D2 GP-01 Compatibility Pack] [Ladylike]
 csv_personal_om003_gp001fb.arc,[COM3D2 Append] [COM3D2 GP-01FB Compatibility Pack] [Ladylike]
-csv_gp002ladylike.arc,[COM3D2 Append] [COM3D2 GP-02 Compatibility Pack] [Ladylike]
 csv_personal_om004_gp001.arc,[COM3D2 Append] [COM3D2 GP-01 Compatibility Pack] [Maid Secretary]
 csv_personal_om004_gp001fb.arc,[COM3D2 Append] [COM3D2 GP-01FB Compatibility Pack] [Maid Secretary]
-csv_gp002secretary.arc,[COM3D2 Append] [COM3D2 GP-02 Compatibility Pack] [Maid Secretary]
 csv_personal_om005_gp001.arc,[COM3D2 Append] [COM3D2 GP-01 Compatibility Pack] [Imouto]
 csv_personal_om005_gp001fb.arc,[COM3D2 Append] [COM3D2 GP-01FB Compatibility Pack] [Imouto]
-csv_gp002sister.arc,[COM3D2 Append] [COM3D2 GP-02 Compatibility Pack] [Imouto]
 csv_personal_om006_gp001.arc,[COM3D2 Append] [COM3D2 GP-01 Compatibility Pack] [Wary]
 csv_personal_om006_gp001fb.arc,[COM3D2 Append] [COM3D2 GP-01FB Compatibility Pack] [Wary]
-csv_gp002curtness.arc,[COM3D2 Append] [COM3D2 GP-02 Compatibility Pack] [Wary]
 csv_personal_om007_gp001.arc,[COM3D2 Append] [COM3D2 GP-01 Compatibility Pack] [Ojousama]
 csv_personal_om007_gp001fb.arc,[COM3D2 Append] [COM3D2 GP-01FB Compatibility Pack] [Ojousama]
 csv_personal_om007_gp002.arc,[COM3D2 Append] [COM3D2 GP-02 Compatibility Pack] [Ojousama]
@@ -260,11 +261,12 @@ csv_personal_om012_gp001.arc,COM3D2 GP-01 Compatibility Pack feat. Serious and C
 csv_personal_om012_gp001fb.arc,COM3D2 GP-01Fb Compatibility Pack feat. Serious and Clumsy Lady
 csv_personal_om012_gp002.arc,COM3D2 GP-02 Compatibility Pack feat. Serious and Clumsy Lady
 csv_personal_om012_gp002hfam.arc,COM3D2 GP-02 Compatibility Pack Happy Future After Marriage Pack feat. Serious and Clumsy Lady
+csv_personal_om014.arc,COM3D2 Personality Pack S Strong-Willed
 csv_puremaniac001.arc,"COM3D2 Pure & Maniac After Marriage feat. Pure, Serious, Rindere, Wary, Ojousama, Osananajimi"
 csv_rooftop001.arc,COM3D2 Luxury Roof Top SP
 csv_rotakara002.arc,COM3D2 Rotor Karaoke Showtime
 csv_rotakara002add.arc,"COM3D2 Rotor Karaoke Show [Add-on] feat. Bookworm, Little Devil, Ladylike, Maid Secretary, Imouto, Wary"
-csv_secondhome001.arc, Holidays for Everyone! Villa Life Add-on Pack  
+csv_secondhome001.arc, Holidays for Everyone! Villa Life Add-on Pack
 csv_select001.arc,COM3D2 Situation Select Pack
 csv_select002.arc,COM3D2 Situation Select Pack [Vol.2]
 csv_selfishdestiny.arc,[COM3D2 Shop] [Dance - Selfish Destiny]
@@ -368,10 +370,10 @@ parts_dlc307.arc,[COM3D2 Shop] [AUGUST - Iris Mysteria Character Set 2] [Limited
 parts_dlc309.arc,[COM3D2 Shop] [AUGUST - Iris Mysteria Character Set 2] [Koto Costume Set]
 parts_dlc311.arc,[COM3D2 Shop] [COM3D2 Costume Pack Vol. 2]
 parts_dlc314.arc,[COM3D2 Shop] [COM3D2 Costume Pack Vol. 4]
-parts_dlc318.arc,[COM3D2 Shop] [Pajama EX - Saikou ni Tsugou no Ii Paizuri Jouzu no Mari-san Character Set] 
+parts_dlc318.arc,[COM3D2 Shop] [Pajama EX - Saikou ni Tsugou no Ii Paizuri Jouzu no Mari-san Character Set]
 parts_dlc320.arc,[COM3D2 Shop] [COM3D2 Costume Pack Vol. 5]
 parts_dlc323.arc,[COM3D2 Shop] [COM3D2 Costume Pack Vol. 7]
-parts_dlc326.arc,[COM3D2 Shop] [Pajama EX - Boku to Sensei no Nyuuin Seikatsu Character Set] 
+parts_dlc326.arc,[COM3D2 Shop] [Pajama EX - Boku to Sensei no Nyuuin Seikatsu Character Set]
 parts_dlc327.arc,[COM3D2 Shop] [COM3D2 Costume Pack Vol. 8]
 parts_dlc333.arc,[COM3D2 Shop] [COM3D2 Costume Pack Vol. 9]
 parts_dlc338.arc,[COM3D2 Shop] [Event Add-on Pack Vol.15] [Additional Outfit Set]
@@ -459,6 +461,7 @@ parts_dlc542.arc,[COM3D2 Shop] [Costume Set] [Vol.70]
 parts_dlc545.arc,[COM3D2 Shop] [Costume Set] [Vol.71]
 parts_dlc547.arc,[COM3D2 Shop] [Costume Set] [Vol.73]
 parts_dlc550.arc,[COM3D2 Shop] [Costume Set] [Vol.74]
+parts_dlc552.arc,[COM3D2 Shop] [Costume Set] [Vol.75]
 parts_free002.arc,[COM3D2 Shop] [Valentine 2021 Set]
 parts_free005.arc,[COM3D2 Shop] [Hat and Paper Hat Set]
 parts_ggcc.arc,[GoGo Curry Collaboration Costume Set]
@@ -471,9 +474,9 @@ parts_maidcafec.arc,[Cafe Mailish Collaboration Maid Set]
 parts_maidcafec2.arc,[Cafe Mailish Collaboration Maid Set II]
 parts_maidcafec3.arc,[Cafe Mailish Collaboration Maid Set III]
 parts_nijiyomec.arc,[DLSite Bonus] [Nijiyomechan Costume Set]
-parts_oldplus002hair1.arc,[COM3D2 Shop] [Relationship & H-Events Pack] [Tsundere Hair Set] 
-parts_oldplus003hair1.arc,[COM3D2 Shop] [Relationship & H-Events Pack] [Kuudere Hair Set] 
-parts_oldplus004hair1.arc,[COM3D2 Shop] [Relationship & H-Events Pack] [Yandere Hair Set] 
+parts_oldplus002hair1.arc,[COM3D2 Shop] [Relationship & H-Events Pack] [Tsundere Hair Set]
+parts_oldplus003hair1.arc,[COM3D2 Shop] [Relationship & H-Events Pack] [Kuudere Hair Set]
+parts_oldplus004hair1.arc,[COM3D2 Shop] [Relationship & H-Events Pack] [Yandere Hair Set]
 parts_oldplus005hair1.arc,[COM3D2 Shop] [Relationship & H-Events Pack] [Oneechan Hair Set]
 parts_oldplus007hair1.arc,[COM3D2 Append] [COM3D2 GP-01 Compatibility Pack] [Ladylike Hair Set]
 parts_oldplus008hair1.arc,[COM3D2 Append] [COM3D2 GP-01FB Compatibility Pack] [Wary Hair Set]
