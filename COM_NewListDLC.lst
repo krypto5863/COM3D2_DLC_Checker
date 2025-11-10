@@ -1,4 +1,4 @@
-25-10-11
+25-11-10
 bg_cafesp001.arc,[Empire Variety SP 2023 Summer Pack]
 bg_cd001.arc,[CUSTOM MAID VOCAL COLLECTION] [Music Dress Set & Vocal Collection Desktop Item]
 bg_cd002.arc,[CUSTOM ORDER MAID VOCAL COLLECTION] [Groove Dress Set & Vocal Collection 2 Desktop Item]
@@ -111,6 +111,7 @@ csv_denkigai2019ssposter3.arc,[Denkigai 2019 Summer] [Stick Poster] [Wary]
 csv_denkigai2019w.arc,[Denkigai 2019 Winter] [Item Set]
 csv_denkigai2019wposter.arc,[Denkigai 2019 Winter] [Ojousama Personality Pack Poster]
 csv_dlc305.arc,[COM3D2 Shop] [Giga - Ai Kiss Dance and Cafe Set]
+csv_empirelive001.arc,COM3D2 Empire Live
 csv_eventplus_childhood.arc,[COM3D2 Shop] [Yotogi & Karaoke Cohabitation Pack] [Osananajimi]
 csv_eventplus_curtness.arc,[COM3D2 Shop] [Yotogi & Karaoke Cohabitation Pack] [Wary]
 csv_eventplus_dame.arc,[COM3D2 Shop] [Yotogi & Karaoke Cohabitation Pack] [Serious and Clumsy Lady]
@@ -232,6 +233,7 @@ csv_omytgc033_add2.arc,"[COM3D2 Shop] [Yotogi Class Skills Vol.48] [Add-on] Love
 csv_omytgc034.arc,COM3D2 Yotogi Class Skills SP: Train & Classroom Situation Enhancement Pack + ACT2 Revival
 csv_omytgc035.arc,COM3D2 Yotogi Class Skills SP + ACT3 Revival - Despair Maid
 csv_omytgc036.arc,COM3D2 Erotic Maid Situation Pack & Yotogi Class SP ‘Erotic Maid’
+csv_omytgc037.arc,"COM3D2 Orgy Situation Pack & Yotogi Class SP ‘Orgy Empire’ feat. Muku, Majime, Rindere, Bookworm, Ladylike, Maid Secretary"
 csv_ordermade001_gp001fb.arc,[COM3D2 Append] [COM3D2 GP-01FB Compatibility Pack] [Yandere]
 csv_ordermade002_gp001fb.arc,[COM3D2 Append] [COM3D2 GP-01FB Compatibility Pack] [Oneechan]
 csv_ordermade003_gp001fb.arc,[COM3D2 Append] [COM3D2 GP-01FB Compatibility Pack] [Tomboy]
@@ -271,6 +273,7 @@ csv_select001.arc,COM3D2 Situation Select Pack
 csv_select002.arc,COM3D2 Situation Select Pack [Vol.2]
 csv_selfishdestiny.arc,[COM3D2 Shop] [Dance - Selfish Destiny]
 csv_senkyo001.arc,[COM3D2 Shop] [1st only you - Dance & Event Pack]
+csv_soapempire001.arc,COM3D2 Situation Character Pack Soap Empire [Miyabiyaka]
 csv_soukiyoyaku.arc,[COM3D2 Early Reservation Campaign Fancy Paper]
 csv_stream001.arc,[COM3D2&2.5] Empire Maid Cafe
 csv_stream002.arc,[COM3D2&2.5] Empire Maid Cafe SEASON2
@@ -462,6 +465,7 @@ parts_dlc545.arc,[COM3D2 Shop] [Costume Set] [Vol.71]
 parts_dlc547.arc,[COM3D2 Shop] [Costume Set] [Vol.73]
 parts_dlc550.arc,[COM3D2 Shop] [Costume Set] [Vol.74]
 parts_dlc552.arc,[COM3D2 Shop] [Costume Set] [Vol.75]
+parts_dlc554.arc,[COM3D2 Shop] [Costume Set] [Vol.76]
 parts_free002.arc,[COM3D2 Shop] [Valentine 2021 Set]
 parts_free005.arc,[COM3D2 Shop] [Hat and Paper Hat Set]
 parts_ggcc.arc,[GoGo Curry Collaboration Costume Set]
