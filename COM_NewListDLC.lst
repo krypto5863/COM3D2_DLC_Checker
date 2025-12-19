@@ -1,4 +1,4 @@
-25-11-10
+25-12-18
 bg_cafesp001.arc,[Empire Variety SP 2023 Summer Pack]
 bg_cd001.arc,[CUSTOM MAID VOCAL COLLECTION] [Music Dress Set & Vocal Collection Desktop Item]
 bg_cd002.arc,[CUSTOM ORDER MAID VOCAL COLLECTION] [Groove Dress Set & Vocal Collection 2 Desktop Item]
@@ -111,7 +111,10 @@ csv_denkigai2019ssposter3.arc,[Denkigai 2019 Summer] [Stick Poster] [Wary]
 csv_denkigai2019w.arc,[Denkigai 2019 Winter] [Item Set]
 csv_denkigai2019wposter.arc,[Denkigai 2019 Winter] [Ojousama Personality Pack Poster]
 csv_dlc305.arc,[COM3D2 Shop] [Giga - Ai Kiss Dance and Cafe Set]
+csv_dlc558event.arc,[COM3D2 Shop] [Costume Set] [Vol.77]
+csv_empiregarden001.arc,COM3D2 Empire Garden SP
 csv_empirelive001.arc,COM3D2 Empire Live
+csv_empirelovehotel001.arc,[COM3D2 Shop] [Special service pack] [Love Hotel]
 csv_eventplus_childhood.arc,[COM3D2 Shop] [Yotogi & Karaoke Cohabitation Pack] [Osananajimi]
 csv_eventplus_curtness.arc,[COM3D2 Shop] [Yotogi & Karaoke Cohabitation Pack] [Wary]
 csv_eventplus_dame.arc,[COM3D2 Shop] [Yotogi & Karaoke Cohabitation Pack] [Serious and Clumsy Lady]
@@ -139,6 +142,7 @@ csv_gp002sister.arc,[COM3D2 Append] [COM3D2 GP-02 Compatibility Pack] [Imouto]
 csv_gp002yandere.arc,[COM3D2 Append] [COM3D2 GP-02 Compatibility Pack] [Yandere]
 csv_gp003d.arc,[COM3D2&2.5 Append] [GP-03]
 csv_hanami001.arc,COM3D2 Flower-Viewing Karaoke Date SP
+csv_hotelempire001.arc,COM3D2 Situation Character Pack Hotel Health Empire [Shitashimi]
 csv_karaoke001.arc,[COM3D2 Append] [CM3D2 Karaoke Pack VR Vol.1]
 csv_karaoke002.arc,[COM3D2 Append] [CM3D2 Karaoke Pack VR Vol.2]
 csv_karaoke003.arc,[COM3D2 Append] [COM3D2 Karaoke Pack VR Vol.1]
@@ -234,6 +238,7 @@ csv_omytgc034.arc,COM3D2 Yotogi Class Skills SP: Train & Classroom Situation Enh
 csv_omytgc035.arc,COM3D2 Yotogi Class Skills SP + ACT3 Revival - Despair Maid
 csv_omytgc036.arc,COM3D2 Erotic Maid Situation Pack & Yotogi Class SP ‘Erotic Maid’
 csv_omytgc037.arc,"COM3D2 Orgy Situation Pack & Yotogi Class SP ‘Orgy Empire’ feat. Muku, Majime, Rindere, Bookworm, Ladylike, Maid Secretary"
+csv_omytgc038_add.arc,"COM3D2 Yotogi Class SP Harem Empire + Harem King feat. Muku, Majime, Rindere, Ladylike, Imouto, Ojousama, Friendly" 
 csv_ordermade001_gp001fb.arc,[COM3D2 Append] [COM3D2 GP-01FB Compatibility Pack] [Yandere]
 csv_ordermade002_gp001fb.arc,[COM3D2 Append] [COM3D2 GP-01FB Compatibility Pack] [Oneechan]
 csv_ordermade003_gp001fb.arc,[COM3D2 Append] [COM3D2 GP-01FB Compatibility Pack] [Tomboy]
