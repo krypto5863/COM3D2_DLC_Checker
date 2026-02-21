@@ -1,4 +1,4 @@
-26-01-24
+26-02-21
 bg_cafesp001.arc,[Empire Variety SP 2023 Summer Pack]
 bg_cd001.arc,[CUSTOM MAID VOCAL COLLECTION] [Music Dress Set & Vocal Collection Desktop Item]
 bg_cd002.arc,[CUSTOM ORDER MAID VOCAL COLLECTION] [Groove Dress Set & Vocal Collection 2 Desktop Item]
@@ -241,7 +241,8 @@ csv_omytgc034.arc,COM3D2 Yotogi Class Skills SP: Train & Classroom Situation Enh
 csv_omytgc035.arc,COM3D2 Yotogi Class Skills SP + ACT3 Revival - Despair Maid
 csv_omytgc036.arc,COM3D2 Erotic Maid Situation Pack & Yotogi Class SP ‘Erotic Maid’
 csv_omytgc037.arc,"COM3D2 Orgy Situation Pack & Yotogi Class SP ‘Orgy Empire’ feat. Muku, Majime, Rindere, Bookworm, Ladylike, Maid Secretary"
-csv_omytgc038_add.arc,"COM3D2 Yotogi Class SP Harem Empire + Harem King feat. Muku, Majime, Rindere, Ladylike, Imouto, Ojousama, Friendly" 
+csv_omytgc038_add.arc,"COM3D2 Yotogi Class SP Harem Empire + Harem King feat. Muku, Majime, Rindere, Ladylike, Imouto, Ojousama, Friendly"
+csv_onsenryokan001.arc,[COM3D2 Shop] [Special Service Pack] [Hot Spring Inn]
 csv_ordermade001_gp001fb.arc,[COM3D2 Append] [COM3D2 GP-01FB Compatibility Pack] [Yandere]
 csv_ordermade002_gp001fb.arc,[COM3D2 Append] [COM3D2 GP-01FB Compatibility Pack] [Oneechan]
 csv_ordermade003_gp001fb.arc,[COM3D2 Append] [COM3D2 GP-01FB Compatibility Pack] [Tomboy]
@@ -288,6 +289,7 @@ csv_soukiyoyaku.arc,[COM3D2 Early Reservation Campaign Fancy Paper]
 csv_stream001.arc,[COM3D2&2.5] Empire Maid Cafe
 csv_stream002.arc,[COM3D2&2.5] Empire Maid Cafe SEASON2
 csv_stream003.arc,[COM3D2&2.5] Empire Maid Cafe SEASON3
+csv_stream004.arc,[COM3D2&2.5] Empire Maid Cafe NTR SIDE01
 csv_studio002.arc,COM3D2 Studio Enhancement Pack vol.2
 csv_studio003.arc,COM3D2 Studio Enhancement Pack vol.3
 csv_studio004.arc,COM3D2 Studio Enhancement Pack vol.4
@@ -297,6 +299,7 @@ csv_trio002.arc,COM3D2 Yotogi Class SP Trio & Harem Pack - Bookworm x Little Dev
 csv_trioex.arc,COM3D2 EX Maid Trio Harem & Adult Function Pack feat. Masochist x Evil & Mischievous x Gyaru
 csv_valentine2024.arc,Happy Valentine's Day 2024 & Accessory Set
 csv_valentine2025.arc,[COM3D2 Shop] [Colorful Valentine's 2025 & Accessory Set]
+csv_valentine2026.arc, COM3D2 Happy Valentines 2026
 csv_vp001.arc,[COM3D2 Append] [Visual Pack for Disc] [*CM3D2 VP]
 csv_wonderingbeads.arc,[COM3D2 Shop] [Dance - wondering beads]
 csv_x001m1n1.arc,[COM3D2 Append] [X1 Honeymoon Yotogi Pack feat. Masochist and Evil and Mischievous
@@ -477,6 +480,7 @@ parts_dlc550.arc,[COM3D2 Shop] [Costume Set] [Vol.74]
 parts_dlc552.arc,[COM3D2 Shop] [Costume Set] [Vol.75]
 parts_dlc554.arc,[COM3D2 Shop] [Costume Set] [Vol.76]
 parts_dlc562.arc,[COM3D2 Shop] [Costume Set] [Vol.78]
+parts_dlc564.arc,[COM3D2 Shop] [Costume Set] [Vol.79]
 parts_free002.arc,[COM3D2 Shop] [Valentine 2021 Set]
 parts_free005.arc,[COM3D2 Shop] [Hat and Paper Hat Set]
 parts_ggcc.arc,[GoGo Curry Collaboration Costume Set]
