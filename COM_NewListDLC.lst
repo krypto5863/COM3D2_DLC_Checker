@@ -1,4 +1,4 @@
-26-04-01
+26-04-25
 bg_cafesp001.arc,[Empire Variety SP 2023 Summer Pack]
 bg_cd001.arc,[CUSTOM MAID VOCAL COLLECTION] [Music Dress Set & Vocal Collection Desktop Item]
 bg_cd002.arc,[CUSTOM ORDER MAID VOCAL COLLECTION] [Groove Dress Set & Vocal Collection 2 Desktop Item]
@@ -209,6 +209,7 @@ csv_omytgc010.arc,[COM3D2 Shop] [Yotogi Class Skills Vol.28]
 csv_omytgc011.arc,[COM3D2 Shop] [Yotogi Class Skills Vol.29]
 csv_omytgc012.arc,[COM3D2 Shop] [Yotogi Class Skills Vol.30]
 csv_omytgc013.arc,[COM3D2 Shop] [Yotogi Class Skills Vol.31]
+csv_omytgc013_add2.arc,[COM3D2 Shop] [Yotogi Class Skills Vol.31][Add-on]
 csv_omytgc014.arc,[COM3D2 Shop] [Yotogi Class Skills Vol.32]
 csv_omytgc015.arc,[COM3D2 Shop] [Yotogi Class Skills Vol.33]
 csv_omytgc016.arc,[COM3D2 Shop] [Yotogi Class Skills Vol.34]
@@ -275,6 +276,7 @@ csv_personal_om012_gp001fb.arc,COM3D2 GP-01Fb Compatibility Pack feat. Serious a
 csv_personal_om012_gp002.arc,COM3D2 GP-02 Compatibility Pack feat. Serious and Clumsy Lady
 csv_personal_om012_gp002hfam.arc,COM3D2 GP-02 Compatibility Pack Happy Future After Marriage Pack feat. Serious and Clumsy Lady
 csv_personal_om014.arc,COM3D2 Personality Pack S Strong-Willed
+csv_personal_om015.arc,COM3D2 Personality Pack T Lovely
 csv_puremaniac001.arc,"COM3D2 Pure & Maniac After Marriage feat. Pure, Serious, Rindere, Wary, Ojousama, Osananajimi"
 csv_rooftop001.arc,COM3D2 Luxury Roof Top SP
 csv_rotakara002.arc,COM3D2 Rotor Karaoke Showtime
@@ -486,6 +488,7 @@ parts_dlc554.arc,[COM3D2 Shop] [Costume Set] [Vol.76]
 parts_dlc562.arc,[COM3D2 Shop] [Costume Set] [Vol.78]
 parts_dlc564.arc,[COM3D2 Shop] [Costume Set] [Vol.79]
 parts_dlc566.arc,[COM3D2 Shop] [Costume Set] [Vol.80]
+parts_dlc568.arc,[COM3D2 Shop] [Costume Set] [Vol.81]
 parts_free002.arc,[COM3D2 Shop] [Valentine 2021 Set]
 parts_free005.arc,[COM3D2 Shop] [Hat and Paper Hat Set]
 parts_ggcc.arc,[GoGo Curry Collaboration Costume Set]
