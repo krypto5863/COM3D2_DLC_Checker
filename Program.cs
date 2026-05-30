@@ -5,6 +5,10 @@ using System.Linq;
 using System.Net;
 using System.Text;
 using Microsoft.Win32;
+using GameFinder.RegistryUtils;
+using GameFinder.StoreHandlers.Steam;
+using GameFinder.StoreHandlers.Steam.Models.ValueTypes;
+using NexusMods.Paths;
 
 namespace COM3D2_DLC_Checker
 {
@@ -15,6 +19,8 @@ namespace COM3D2_DLC_Checker
         // Variables
         static readonly string DLC_URL = "https://raw.githubusercontent.com/krypto5863/COM3D2_DLC_Checker/master/COM_NewListDLC.lst";
         static readonly string DLC_LIST_PATH = Path.Combine(Directory.GetCurrentDirectory(), "COM_NewListDLC.lst");
+
+        static readonly uint STEAM_APPID_COM3D2INM = 1097580; // CUSTOM ORDER MAID 3D2 It's a Night Magic
 
         static void Main(string[] args)
         {
@@ -124,6 +130,17 @@ namespace COM3D2_DLC_Checker
             if (GAME_DIRECTORY_REGISTRY != null && Directory.Exists(GAME_DIRECTORY_REGISTRY) && File.Exists(Path.Combine(GAME_DIRECTORY_REGISTRY, "COM3D2x64.exe")))
             {
                 return GAME_DIRECTORY_REGISTRY;
+            }
+
+            var handler = new SteamHandler(FileSystem.Shared, WindowsRegistry.Shared);
+            if (handler != null)
+            {
+                var comd3d2 = handler.FindOneGameById(AppId.From(STEAM_APPID_COM3D2INM), out var errors1);
+                if (comd3d2 != null)
+                {
+                    string com3d2inmPath = Path.Combine(comd3d2.Path.ToString(), @"com3d2inm");
+                    return com3d2inmPath;
+                }
             }
 
             CONSOLE_COLOR(ConsoleColor.Yellow, "Warning : COM3D2 installation directory is not set or is set improperly in the registry. Will use current directory");
