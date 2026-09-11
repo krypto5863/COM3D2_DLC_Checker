@@ -1,4 +1,4 @@
-26-06-29
+26-09-11
 bg_cafesp001.arc,[Empire Variety SP 2023 Summer Pack]
 bg_cd001.arc,[CUSTOM MAID VOCAL COLLECTION] [Music Dress Set & Vocal Collection Desktop Item]
 bg_cd002.arc,[CUSTOM ORDER MAID VOCAL COLLECTION] [Groove Dress Set & Vocal Collection 2 Desktop Item]
@@ -253,6 +253,7 @@ csv_ordermade002_gp001fb.arc,[COM3D2 Append] [COM3D2 GP-01FB Compatibility Pack]
 csv_ordermade003_gp001fb.arc,[COM3D2 Append] [COM3D2 GP-01FB Compatibility Pack] [Tomboy]
 csv_ordermade003_gp001fbkara.arc,[COM3D2 Append] [COM3D2 GP-01FB Compatibility Pack] [Tomboy] [Song and Dance]
 csv_ordermade004_gp001fb.arc,[COM3D2 Append] [COM3D2 GP-01FB Compatibility Pack] [Sadist]
+csv_perfect001.arc,COM3D2 Situation Character Pack Perfect
 csv_personal_om001_gp001fb.arc,[COM3D2 Append] [COM3D2 GP-01FB Compatibility Pack] [Bookworm]
 csv_personal_om002_gp001fb.arc,[COM3D2 Append] [COM3D2 GP-01FB Compatibility Pack] [Koakuma]
 csv_personal_om003_gp001.arc,[COM3D2 Append] [COM3D2 GP-01 Compatibility Pack] [Ladylike]
@@ -279,9 +280,11 @@ csv_personal_om012_gp002.arc,COM3D2 GP-02 Compatibility Pack feat. Serious and C
 csv_personal_om012_gp002hfam.arc,COM3D2 GP-02 Compatibility Pack Happy Future After Marriage Pack feat. Serious and Clumsy Lady
 csv_personal_om014.arc,COM3D2 Personality Pack S Strong-Willed
 csv_personal_om015.arc,COM3D2 Personality Pack T Lovely
+csv_personal_om015plus.arc,COM3D2 Personality Pack T Lovely - Training Expansion Pack
 csv_puremaniac001.arc,"COM3D2 Pure & Maniac After Marriage feat. Pure, Serious, Rindere, Wary, Ojousama, Osananajimi"
 csv_rcc001.arc,COM3D2 Romance City Newsletter
 csv_rcc002.arc,COM3D2 Romance City Newsletter Vol.2
+csv_rcc003.arc,COM3D2 Romance City Newsletter Vol.3
 csv_rooftop001.arc,COM3D2 Luxury Roof Top SP
 csv_rotakara002.arc,COM3D2 Rotor Karaoke Showtime
 csv_rotakara002add.arc,"COM3D2 Rotor Karaoke Show [Add-on] feat. Bookworm, Little Devil, Ladylike, Maid Secretary, Imouto, Wary"
@@ -303,6 +306,7 @@ csv_streetdevil001.arc, COM3D2 Situation Character Pack Street Devil
 csv_studio002.arc,COM3D2 Studio Enhancement Pack vol.2
 csv_studio003.arc,COM3D2 Studio Enhancement Pack vol.3
 csv_studio004.arc,COM3D2 Studio Enhancement Pack vol.4
+csv_studio004.arc,COM3D2 Studio Enhancement Pack vol.5
 csv_teikoku001.arc,[COM3D2 Shop] [Special Service Pack] [Imperial Villa]
 csv_trio001.arc,COM3D2 Yotogi Class Skills SP Trio & Harem Pack - Innocent x Tsundere x Kuudere
 csv_trio002.arc,COM3D2 Yotogi Class SP Trio & Harem Pack - Bookworm x Little Devil x Imouto
@@ -363,6 +367,7 @@ parts_cas133.arc,[COM3D2 Shop] [COM3D2 Costume Pack Vol. 49]
 parts_cas137.arc,[COM3D2 Shop] [Costume Set] [Vol.59]
 parts_cas141.arc,[COM3D2 Shop] [Costume Set] [Vol.65]
 parts_cas145.arc,[COM3D2 Shop] [Costume Set] [Vol.72]
+parts_cas152.arc,[COM3D2 Shop] [Costume Set] [Vol.86]
 parts_cd003.arc,[CUSTOM ORDER MAID VOCAL COLLECTION] [Sound Dress Set]
 parts_com3d2cbp.arc,[COM3D2 Chu-B Maid Clothes Set Vol.2]
 parts_coupling001.arc,[COM3D2 Shop] [Coupling & Harem Pack] [Muku x Majime]
@@ -498,6 +503,9 @@ parts_dlc566.arc,[COM3D2 Shop] [Costume Set] [Vol.80]
 parts_dlc568.arc,[COM3D2 Shop] [Costume Set] [Vol.81]
 parts_dlc571.arc,[COM3D2 Shop] [Costume Set] [Vol.82]
 parts_dlc572.arc,[COM3D2 Shop] [Costume Set] [Vol.83]
+parts_dlc575.arc,[COM3D2 Shop] [Costume Set] [Vol.84]
+parts_dlc578.arc,[COM3D2 Shop] [Costume Set] [Vol.85]
+parts_dlc582.arc,[COM3D2 Shop] [Costume Set] [Vol.87]
 parts_free002.arc,[COM3D2 Shop] [Valentine 2021 Set]
 parts_free005.arc,[COM3D2 Shop] [Hat and Paper Hat Set]
 parts_ggcc.arc,[GoGo Curry Collaboration Costume Set]
