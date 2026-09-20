@@ -1,4 +1,4 @@
-26-09-11
+26-09-20
 bg_cafesp001.arc,[Empire Variety SP 2023 Summer Pack]
 bg_cd001.arc,[CUSTOM MAID VOCAL COLLECTION] [Music Dress Set & Vocal Collection Desktop Item]
 bg_cd002.arc,[CUSTOM ORDER MAID VOCAL COLLECTION] [Groove Dress Set & Vocal Collection 2 Desktop Item]
@@ -302,11 +302,12 @@ csv_stream002.arc,[COM3D2&2.5] Empire Maid Cafe SEASON2
 csv_stream003.arc,[COM3D2&2.5] Empire Maid Cafe SEASON3
 csv_stream004.arc,[COM3D2&2.5] Empire Maid Cafe NTR SIDE01
 csv_stream005.arc,[COM3D2&2.5] Empire Maid Cafe NTR SIDE02
+csv_stream006.arc,[COM3D2&2.5] Empire Maid Cafe EX-SEASON
 csv_streetdevil001.arc, COM3D2 Situation Character Pack Street Devil
 csv_studio002.arc,COM3D2 Studio Enhancement Pack vol.2
 csv_studio003.arc,COM3D2 Studio Enhancement Pack vol.3
 csv_studio004.arc,COM3D2 Studio Enhancement Pack vol.4
-csv_studio004.arc,COM3D2 Studio Enhancement Pack vol.5
+csv_studio005.arc,COM3D2 Studio Enhancement Pack vol.5
 csv_teikoku001.arc,[COM3D2 Shop] [Special Service Pack] [Imperial Villa]
 csv_trio001.arc,COM3D2 Yotogi Class Skills SP Trio & Harem Pack - Innocent x Tsundere x Kuudere
 csv_trio002.arc,COM3D2 Yotogi Class SP Trio & Harem Pack - Bookworm x Little Devil x Imouto
@@ -368,6 +369,7 @@ parts_cas137.arc,[COM3D2 Shop] [Costume Set] [Vol.59]
 parts_cas141.arc,[COM3D2 Shop] [Costume Set] [Vol.65]
 parts_cas145.arc,[COM3D2 Shop] [Costume Set] [Vol.72]
 parts_cas152.arc,[COM3D2 Shop] [Costume Set] [Vol.86]
+parts_cas156.arc,[COM3D2 Shop] [Costume Set] [Vol.88] 
 parts_cd003.arc,[CUSTOM ORDER MAID VOCAL COLLECTION] [Sound Dress Set]
 parts_com3d2cbp.arc,[COM3D2 Chu-B Maid Clothes Set Vol.2]
 parts_coupling001.arc,[COM3D2 Shop] [Coupling & Harem Pack] [Muku x Majime]
